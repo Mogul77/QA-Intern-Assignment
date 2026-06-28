@@ -21,13 +21,13 @@ This repository contains my submission for the QA Intern Technical Assignment. T
 
 ### 1. Test Case Document
 
-* **File:** `Test_Cases.xlsx`
+* **File:** `testcase.xlsx`
 * Covers the Login and Signup functionalities.
 * Includes positive, negative, and validation test scenarios.
 
 ### 2. Defect Report
 
-* **File:** `Defect_Report.docx`
+* **File:** `DefectReport.docx`
 * Contains a structured defect report prepared based on the issue specified in the assignment instructions.
 
 ---
